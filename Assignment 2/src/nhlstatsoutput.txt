@@ -1,0 +1,58 @@
+Enter the filename to read from: src/nhlstats.txt
+NHL Results Summary
+
+Players with highest points and their teams:
+St.Louis TB
+
+Most agressive players, their teams and their positions:
+Clowe NYR RW
+Ott BUF C
+
+
+Most valuable players and their teams:
+Carter LA
+
+
+Most promising players and their teams:
+Ovechkin WSH
+
+
+Teams that had the most number of penalty minutes:
+ TOR 0
+ FLA 0
+ WSH 0
+ CGY 0
+ COL 0
+ DET 0
+ BOS 0
+ BUF 0
+ NSH 0
+ CHI 0
+ WPG 0
+ LA 0
+ SJ 0
+ CBJ 0
+ NYR 0
+ NJ 0
+ OTT 0
+ ANA 0
+ TB 0
+ STL 0
+ PIT 0
+ NYI 0
+ PHX 0
+ MIN 0
+ EDM 0
+ VAN 0
+ CAR 0
+ DAL 0
+ PHI 0
+ MTL 0
+
+
+Teams that had the most number of game winning goals:
+null 8
+
+
+
+Process finished with exit code 0
