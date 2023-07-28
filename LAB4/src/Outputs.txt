@@ -1,0 +1,93 @@
+
+OUTPUTS FOR EXERCISE 2:
+
+Enter the filename to read from: src/StudentRecords.txt
+The Student List contains the following entries:
+200132 Jane Reid jreid@email.com Music Arts
+200131 Mike Williams mwilliams@email.com Linguistics Humanities
+200130 Steve Edwards sedwards@email.com Biology Science
+200129 Craig Cambell ccambell@email.com Music Arts
+200128 Allison Page apage@email.com History Humanities
+200127 John Smith jsmith@email.com Sculpture Arts
+200126 Karen Weaver jkweaver@email.com Music Arts
+200125 Matt Knight mknight@email.com Finance Business
+200124 Jen Foster jfoster@email.com Physics Science
+200123 Mark Smith msmith@email.com Biology Science
+200122 Tom Erlich terlich@email.com Sculpture Arts
+200121 Julie McLain jmclain@email.com Finance Business
+200120 Kate West kwest@email.com Music Arts
+
+display
+major
+These students are majoring in Music:
+Music
+200132 Jane Reid jreid@email.com Music Arts
+200129 Craig Cambell ccambell@email.com Music Arts
+200126 Karen Weaver jkweaver@email.com Music Arts
+200120 Kate West kwest@email.com Music Arts
+
+display
+faculty
+These students are studying in the Faculty of Science
+Science
+200130 Steve Edwards sedwards@email.com Biology Science
+200124 Jen Foster jfoster@email.com Physics Science
+200123 Mark Smith msmith@email.com Biology Science
+
+display
+search
+Find the record for the student with ID '200128'
+200128 Allison Page apage@email.com History Humanities
+
+display
+searchName
+Find the record for the student with the name 'Mike Williams': (insert last name)
+Williams
+200131 Mike Williams mwilliams@email.com Linguistics Humanities
+
+display
+email
+Find the record for the student with the email 'apage@email.com': (insert email)
+apage@email.com
+200128 Allison Page apage@email.com History Humanities
+
+The student list now contains the following entries:
+200132 Jane Reid jreid@email.com Music Arts
+200131 Mike Williams mwilliams@email.com Linguistics Humanities
+200130 Steve Edwards sedwards@email.com Biology Science
+200129 Craig Cambell ccambell@email.com Music Arts
+200128 Allison Page apage@email.com History Humanities
+200127 John Smith jsmith@email.com Sculpture Arts
+200126 Karen Weaver jkweaver@email.com Music Arts
+
+
+
+OUTPUTS FOR EXERCISE 3:
+
+Enter the filename to read from: src/CountryCapitals.txt
+Welcome to the Country-Capital Quiz
+Play?
+yes
+What is the capital of Bhutan?
+Thimphu
+Correct.Play?
+yes1
+Play?
+yes1
+What country has Helsinki as its capital?
+Finland
+Correct.Play?
+yes
+What is the capital of Kenya?
+Nairobi
+Correct.Play?
+yes
+What is the capital of Samoa?
+rig
+Incorrect. The correct answer is Apia
+Play?
+No
+Game over.
+Game Stats:
+Questions played: 4; Correct answers: 3; Score: 75.0%
+GAME OVER!
