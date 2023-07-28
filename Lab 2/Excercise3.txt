@@ -1,0 +1,2 @@
+Simply I believe the error would occur for the 3x3 matrix, due to the fact that for a 10000 range and number 3 the about
+is out of range in the context of the space for the matrix.
