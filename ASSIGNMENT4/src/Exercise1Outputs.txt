@@ -1,0 +1,83 @@
+P-POS. TEST 1-
+Enter name info file: src/Students.txt
+Login: bbones
+Password: pass456!
+
+Login successful
+Welcome Brom Bones
+
+-POS. TEST 2-
+Login: tchaser
+Password: xpxo567!
+
+Login successful
+Welcome Trend Chaser
+
+-POS. TEST 3-
+Login: epokemon
+Password: password123
+
+Login successful
+Welcome Emboar Pokemon
+
+
+
+-NEGATIVE CASE 1-
+Login: cdude
+Password: trythis
+
+Either the username or password is incorrect. You have 2 more attemps.
+
+Login: cdude
+Password: trythat
+
+Either the username or password is incorrect. You have 1 more attemps.
+
+Login: cdude
+Password: 675rtht!
+
+Sorry. Incorrect login. Please contact the system administrator.
+
+Process finished with exit code 0
+
+-NEG. TEST 2-
+
+Enter name info file: src/Students.txt
+Login: epokemon
+Password: sdfgt
+
+Either the username or password is incorrect. You have 2 more attemps.
+
+Login: Epokemon
+Password: password123
+
+Either the username or password is incorrect. You have 1 more attemps.
+
+Login: epokemon
+Password: password123
+
+Login successful
+Welcome Emboar Pokemon
+
+Process finished with exit code 0
+
+-NEG CASE 3-
+Enter name info file: src/Students.txt
+Login: POK
+Password: GHJJ
+
+Either the username or password is incorrect. You have 2 more attemps.
+
+Login: POYH
+Password: DSER
+
+Either the username or password is incorrect. You have 1 more attemps.
+
+Login: STUGH
+Password: EFGTYH
+
+Sorry. Incorrect login. Please contact the system administrator.
+
+Process finished with exit code 0
+
+
