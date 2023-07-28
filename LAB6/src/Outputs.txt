@@ -1,0 +1,113 @@
+
+---------------------EXERCISE 0A:-----------------
+
+Trial 1:
+Height of the tree is: 3
+Number of nodes in the tree is: 6
+
+Inorder:	F	D	B	E	A	C
+Preorder:	A	B	D	F	E	C
+Postorder:	F	D	E	B	C	A
+Level order:	A	B	C	D	E	F
+
+And is it height balanced... No.
+
+
+Process finished with exit code 0
+
+Trial 2:
+Height of the tree is: 4
+Number of nodes in the tree is: 8
+
+Inorder:	F	D	G	H	B	E	A	C
+Preorder:	A	B	D	F	G	H	E	C
+Postorder:	F	H	G	D	E	B	C	A
+Level order:	A	B	C	D	E	F	G	H
+
+And is it height balanced... No.
+
+
+Process finished with exit code 0
+
+Trial 3:
+Height of the tree is: 2
+Number of nodes in the tree is: 4
+
+Inorder:	D	B	A	C
+Preorder:	A	B	D	C
+Postorder:	D	B	C	A
+Level order:	A	B	C	D
+
+And is it height balanced... Yes!
+
+
+Process finished with exit code 0
+
+
+-------------EXERCISE 1:----------------
+
+Trial 1:
+Enter name or done: emboar
+Enter name or done: unfezant
+Enter name or done: palkia
+Enter name or done: serperior
+Enter name or done: samurott
+Enter name or done: done
+
+The height of the tree is:	2
+
+The number of nodes:	5
+
+Inorder:	serperior	unfezant	samurott	emboar	palkia
+Preorder:	emboar	unfezant	serperior	samurott	palkia
+Postorder:	serperior	samurott	unfezant	palkia	emboar
+Level Order:	emboar	unfezant	palkia	serperior	samurott
+Process finished with exit code 0
+
+Trial 2:
+Enter name or done: 4
+Enter name or done: 5
+Enter name or done: 6
+Enter name or done: 7
+Enter name or done: 8
+Enter name or done: 9
+Enter name or done: done
+
+The height of the tree is:	2
+
+The number of nodes:	6
+
+Inorder:	7	5	8	4	9	6
+Preorder:	4	5	7	8	6	9
+Postorder:	7	8	5	9	6	4
+Level Order:	4	5	6	7	8	9
+Process finished with exit code 0
+
+Trial 3:
+Enter name or done: lynda
+Enter name or done: jacob
+Enter name or done: julie
+Enter name or done: anthea
+Enter name or done: ciara
+Enter name or done: jenny
+Enter name or done: cor
+Enter name or done: emily
+Enter name or done: dayna
+Enter name or done: bob
+Enter name or done: sarah
+Enter name or done: done
+
+The height of the tree is:	3
+
+The number of nodes:	11
+
+Inorder:	emily	anthea	dayna	jacob	bob	ciara	sarah	lynda	jenny	julie	cor
+Preorder:	lynda	jacob	anthea	emily	dayna	ciara	bob	sarah	julie	jenny	cor
+Postorder:	emily	dayna	anthea	bob	sarah	ciara	jacob	jenny	cor	julie	lynda
+Level Order:	lynda	jacob	julie	anthea	ciara	jenny	cor	emily	dayna	bob	sarah
+Process finished with exit code 0
+
+
+
+
+
