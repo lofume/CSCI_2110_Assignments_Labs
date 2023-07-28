@@ -1,0 +1,15 @@
+Insert value for n: 3
+Insert value for m: 6
+3	6	9	12	15	18
+Process finished with exit code 0
+
+Insert value for n: 2
+Insert value for m: 5
+2	4	6	8	10
+Process finished with exit code 0
+
+Insert value for n: 4
+Insert value for m: 10
+4	8	12	16	20	24	28	32	36	40
+Process finished with exit code 0
+

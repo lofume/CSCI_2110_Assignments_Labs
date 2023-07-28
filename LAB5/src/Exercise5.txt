@@ -1,0 +1,32 @@
+Enter positive n integer in sequence: 1234567890
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+
+Process finished with exit code 0
+
+Enter positive n integer in sequence: 1234
+1
+2
+3
+4
+
+Process finished with exit code 0
+
+Enter positive n integer in sequence: 1234566
+1
+2
+3
+4
+5
+6
+6
+
+Process finished with exit code 0

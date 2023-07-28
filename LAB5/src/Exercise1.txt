@@ -1,0 +1,20 @@
+Factorial method of the first 10 numbers: 1	1	2	6	24	120	720	5040	40320	362880	3628800
+Fibonacci calls the first 20 numbers: 0	1	1	2	3	5	8	13	21	34	55	89	144	233	377	610	987	1597	2584	4181	6765
+Insert value for x: 2
+Insert value for y: 4
+2 to the power of 4 equals 16
+Process finished with exit code 0
+
+Factorial method of the first 10 numbers: 1	1	2	6	24	120	720	5040	40320	362880	3628800
+Fibonacci calls the first 20 numbers: 0	1	1	2	3	5	8	13	21	34	55	89	144	233	377	610	987	1597	2584	4181	6765
+Insert value for x: 4
+Insert value for y: 6
+4 to the power of 6 equals 4096
+Process finished with exit code 0
+
+Factorial method of the first 10 numbers: 1	1	2	6	24	120	720	5040	40320	362880	3628800
+Fibonacci calls the first 20 numbers: 0	1	1	2	3	5	8	13	21	34	55	89	144	233	377	610	987	1597	2584	4181	6765
+Insert value for x: 5
+Insert value for y: 4
+5 to the power of 4 equals 625
+Process finished with exit code 0

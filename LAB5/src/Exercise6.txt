@@ -1,0 +1,11 @@
+Enter positive n integer: 4
+30
+Process finished with exit code 0
+
+Enter positive n integer: 10
+385
+Process finished with exit code 0
+
+Enter positive n integer: 2
+5
+Process finished with exit code 0

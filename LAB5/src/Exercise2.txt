@@ -1,0 +1,11 @@
+Enter single positive integer n: 10
+10	9	8	7	6	5	4	3	2	1	BlastOff!
+Process finished with exit code 0
+
+Enter single positive integer n: 2
+2	1	BlastOff!
+Process finished with exit code 0
+
+Enter single positive integer n: 5
+5	4	3	2	1	BlastOff!
+Process finished with exit code 0

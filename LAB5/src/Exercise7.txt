@@ -1,0 +1,27 @@
+Enter positive n integer: 8
+Value of n: 8	| # of Moves: 255	| Execution time: 28
+Process finished with exit code 0
+
+Enter positive n integer: 12
+Value of n: 12	| # of Moves: 4095	| Execution time: 32
+Process finished with exit code 0
+
+Enter positive n integer: 16
+Value of n: 16	| # of Moves: 65535	| Execution time: 35
+Process finished with exit code 0
+
+Enter positive n integer: 20
+Value of n: 20	| # of Moves: 1048575	| Execution time: 30
+Process finished with exit code 0
+
+Enter positive n integer: 24
+Value of n: 24	| # of Moves: 16777215	| Execution time: 62
+Process finished with exit code 0
+
+Enter positive n integer: 28
+Value of n: 28	| # of Moves: 268435455	| Execution time: 620
+Process finished with exit code 0
+
+Enter positive n integer: 32
+Value of n: 32	| # of Moves: 4294967295	| Execution time: 8748
+Process finished with exit code 0
