@@ -1,0 +1,27 @@
+Enter int or '0': 1
+Enter int or '0': 2
+Enter int or '0': 3
+Enter int or '0': 4
+Enter int or '0': 5
+Enter int or '0': 6
+Enter int or '0': 7
+Enter int or '0': 8
+Enter int or '0': 9
+Enter int or '0': 0
+
+The max data value in the BST is: 9
+The min data value in the BST is: 1
+
+What key would you like to search for?
+[INT KEY]>>> 3
+Found!
+
+And is it a true BST... Yes!
+
+Here's a hardcoded negative example.
+The basic Binary Tree looks like this in level order:
+1 2 3 4 5 6
+
+And is it a true BST... No.
+
+Process finished with exit code 0
